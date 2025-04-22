@@ -2,7 +2,7 @@
 
 #### Little bit about me
 
-I'm very introvert. I've been a student at Politecnico di Milano in the field of biomedical engineering but I've switched to a more practice-oriented course at ITS Nuove Tecnologie della Vita.
+I've been a student at Politecnico di Milano in the field of biomedical engineering but I've switched to a more practice-oriented course at ITS Nuove Tecnologie della Vita.
 I've graduated in the field of Electrotechnics with a specialization on medical equipement. I give my best while working in team. One of my main hobbies is coding and I've some experience with python, javascript, html & css.
 
 ```python
