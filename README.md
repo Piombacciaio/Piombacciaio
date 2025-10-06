@@ -43,8 +43,7 @@ Local setup using OpenWebUI + ChromaDB, to integrate RAG in locally hosted setup
 
 ## 📊 GitHub Stats
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piombacciaio&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piombacciaio&layout=compact&theme=tokyonight)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piombacciaio&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piombacciaio&layout=compact&theme=tokyonight)
 
 ---
 
