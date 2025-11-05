@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Andrea (aka Piombacciaio)
+# 👋 Hey, I'm Piombo (aka Piombacciaio)
  
 I'm a student at ITS San Raffaele in Technology and Digital Healthcare and, at the same time, I'm a pc technician for the Italian Fencing Federation (FIS). 
 
